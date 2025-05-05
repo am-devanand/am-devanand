@@ -1,3 +1,8 @@
+<p align="left">Hello warriors!!</p>
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/am_devanand) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Dev Anand) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amdevanand206@gmail.com) 
@@ -16,6 +21,18 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/am-devanand/am-devanand/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/am-devanand/am-devanand/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/am-devanand/am-devanand/output/pacman-contribution-graph.svg">
+</picture>
+
+<div align="center">
+  <img height="200" src="https://wallpaperaccess.com/full/1119441.jpg"  />
+</div>
+
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=am-devanand&limit=5&theme=dark&combine_all_yearly_contributions=true)
