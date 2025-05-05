@@ -18,11 +18,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/am-devanand/am-devanand/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/am-devanand/am-devanand/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/am-devanand/am-devanand/output/pacman-contribution-graph.svg">
-</picture>
 
 <div align="center">
   <img height="200" src="https://wallpaperaccess.com/full/1119441.jpg"  />
