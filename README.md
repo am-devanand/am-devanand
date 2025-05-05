@@ -1,4 +1,6 @@
 <p align="left" width="90" height="70">Hello warriors!!</p> 
+<p align="left" width="90" height="70">ABOUT ME </p> 
+<p>I'm currently exploring the vast world of programming and technology. My journey started recently, and I'm focused on honing my skills. I aim to grow from a beginner into a proficient developer who can contribute meaningfully to projects.</p> 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/am_devanand) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-anand-ba846a359/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amdevanand206@gmail.com) 
