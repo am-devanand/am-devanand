@@ -1,5 +1,5 @@
-<p align="left" width="90" height="70">Hello warriors!!</p> 
-<p align="left" width="90" height="70">ABOUT ME </p> 
+<p align="left" width="90" height="70" style= "bold">Hello warriors!!</p> 
+<p align="left" width="90" height="70" style= "bold">ABOUT ME </p> 
 <p>I'm currently exploring the vast world of programming and technology. My journey started recently, and I'm focused on honing my skills. I aim to grow from a beginner into a proficient developer who can contribute meaningfully to projects.</p> 
 
 ## 🌐 Socials:
